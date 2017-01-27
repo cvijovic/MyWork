@@ -1,7 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Members: Paul Solleza
-//          Peter Cvijovic
-// Section: LBL EA1
+//          Petar Cvijovic
 //
 // goals:
 // > generate a valid sudoku grid
