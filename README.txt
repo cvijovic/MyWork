@@ -1,7 +1,6 @@
 
 Paul Solleza
-Peter Cvijovic
-LBL EA1
+Petar Cvijovic
 
 -------------------------------------------------------------------------------------------
 Accessories:
